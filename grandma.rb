@@ -2,6 +2,7 @@
 def speak_to_gradma(string)
   if string == "I LOVE YOU GRANDMA!"
     p "I LOVE YOU TOO PUMPKIN!"
+  end 
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
